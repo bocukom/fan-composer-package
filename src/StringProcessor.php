@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Denis\FanComposerPackage;
+namespace Bocukom\FanComposerPackage;
 
 class StringProcessor
 {

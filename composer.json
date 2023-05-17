@@ -1,9 +1,9 @@
 {
-    "name": "denis/fan-composer-package",
+    "name": "bocukom/fan-composer-package",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Denis\\FanComposerPackage\\": "src/"
+            "Bocukom\\FanComposerPackage\\": "src/"
         }
     },
     "authors": [
