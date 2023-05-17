@@ -12,5 +12,7 @@
             "email": "denis_mesnyankin@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
