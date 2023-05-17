@@ -1,6 +1,6 @@
 {
     "name": "denis/fan-composer-package",
-    "type": "project",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Denis\\FanComposerPackage\\": "src/"
