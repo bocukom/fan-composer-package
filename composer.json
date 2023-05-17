@@ -1,0 +1,16 @@
+{
+    "name": "denis/fan-composer-package",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Denis\\FanComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Denis",
+            "email": "denis_mesnyankin@mail.ru"
+        }
+    ],
+    "require": {}
+}
